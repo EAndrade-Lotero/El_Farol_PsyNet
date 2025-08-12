@@ -1,8 +1,6 @@
-# PsyNetTest
+# El Farol Bar Problem experimental setup in PsyNet
 
-A test of functionality for a behavioral experiment using the PsyNet framework.
-
-This experiment is implemented using the [PsyNet framework](https://www.psynet.dev/).
+An implementation as a behavioral experiment of the El Farol Bar Problem using the [PsyNet framework](https://www.psynet.dev/).
 
 For installation instructions, see docs/INSTALL.md.
 
