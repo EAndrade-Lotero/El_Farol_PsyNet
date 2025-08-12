@@ -1,0 +1,13 @@
+{
+    "redeploying_from_archive": false,
+    "mode": "debug",
+    "is_local_deployment": true,
+    "is_ssh_deployment": false,
+    "folder_name": "experiment",
+    "secret": {
+        "py/object": "uuid.UUID",
+        "hex": "044deb8ba2f54a92b7cf37c9ee6bb63b"
+    },
+    "deployment_id": "timeline-demo__mode=debug__launch=2025-08-12--12-49-15",
+    "locale": "en"
+}
